@@ -1,0 +1,2 @@
+# pyro-to-flipbook
+[ゲームエンジン向けに Flipbook Texture をレンダリング - hounotes](https://scrapbox.io/hounotes/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%90%91%E3%81%91%E3%81%AB_Flipbook_Texture_%E3%82%92%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0)
